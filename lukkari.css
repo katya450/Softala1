@@ -1,0 +1,60 @@
+body {
+    padding-top: 50px;
+    background-color: #FFFFFF;
+}
+th, td {
+    text-align: left;
+    white-space: nowrap;
+    font-size: 12px;
+}
+
+hr {
+    margin: 6px;
+}
+a {
+    color: #22ACB3;
+}
+tbody tr:hover {
+    background-color: #FAFAFA;
+}
+.navbar {
+    background-color: #22ACB3;
+}
+.navbar-inverse {
+    border-color: transparent;
+}
+.navbar-inverse .navbar-brand {
+    color: #FFFFFF;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    background-color: #129CA3;
+}
+.btn-default {
+    background-color: #FAFAFA;
+}
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+.lukkari-actions {
+    text-align: right;
+}
+.filters {
+    text-align: justify;
+    padding-top: 8px;
+    display: none;
+
+}
+.panel-heading {
+    background-color: #e5e5e5 !important;
+}
+.filters select {
+    border: 1px solid silver;
+    background-color: transparent;
+}
+.lukkari thead th {
+    width: 17%;
+}
+.lukkari tbody tr:first-child {
+    background-color: #FAFAFA;
+}
